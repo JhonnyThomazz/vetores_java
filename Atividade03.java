@@ -24,15 +24,15 @@ public class Atividade03 {
 			vc[i + 5] = vb[i];
 		}
 		for (int i = 0; i < 5; i++) {
-			System.out.println("\nVetor_A: " + va[i]);
+			System.out.println("Vetor_A: " + va[i]);
 		}
 		System.out.println(" ");
 		for (int i = 0; i < 5; i++) {
-			System.out.println("\nVetor_B: " + vb[i]);
+			System.out.println("Vetor_B: " + vb[i]);
 		}
 		System.out.println(" ");
 		for (int i = 0; i < 10; i++) {
-			System.out.println("\nVetor_C: " + vc[i]);
+			System.out.println("Vetor_C: " + vc[i]);
 		}
 		ler.close();
 
