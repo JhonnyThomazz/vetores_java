@@ -35,7 +35,6 @@ public class Atividade03 {
 			System.out.println("Vetor_C: " + vc[i]);
 		}
 		ler.close();
-
 	}
-
+	
 }
