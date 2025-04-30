@@ -11,10 +11,10 @@ public class Atividade03 {
 		int vc[] = new int[10];
 
 		for (int i = 0; i < 5; i++) {
-			System.out.println("informe o valor " + i + " para o vetor_A:");
+			System.out.println("\nInforme o valor " + i + " para o vetor_A(" + i +"):");
 			va[i] = ler.nextInt();
 			
-			System.out.println("\nInforme o valor " + i + " para o vetor_B:");
+			System.out.println("\nInforme o valor " + i + " para o vetor_B(" + i +"):");
 			vb[i] = ler.nextInt();
 		}
 		for (int i = 0; i < 5; i++) {
